@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Sreya-Portfolio/static/css/main.7bfb08e3.css",
+    "main.js": "/Sreya-Portfolio/static/js/main.94bb3cb0.js",
+    "static/js/453.c3a1773d.chunk.js": "/Sreya-Portfolio/static/js/453.c3a1773d.chunk.js",
+    "static/media/profile.jpg": "/Sreya-Portfolio/static/media/profile.f3ae1e09b059bd3ad256.jpg",
+    "index.html": "/Sreya-Portfolio/index.html",
+    "main.7bfb08e3.css.map": "/Sreya-Portfolio/static/css/main.7bfb08e3.css.map",
+    "main.94bb3cb0.js.map": "/Sreya-Portfolio/static/js/main.94bb3cb0.js.map",
+    "453.c3a1773d.chunk.js.map": "/Sreya-Portfolio/static/js/453.c3a1773d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7bfb08e3.css",
+    "static/js/main.94bb3cb0.js"
+  ]
+}
